@@ -78,6 +78,7 @@ namespace summer2
 
         private void siticoneCircleButton1_Click(object sender, EventArgs e)
         {
+            MessageBox.Show("ijeni");
             home.Show();
         }
 
